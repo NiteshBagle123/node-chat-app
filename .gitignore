@@ -1,0 +1,12 @@
+node_modules
+dist
+.idea
+.vscode
+.nyc_output
+results
+npm-debug.log
+.terraform
+variables.tf
+coverage
+.DS_Store
+package-lock.json
